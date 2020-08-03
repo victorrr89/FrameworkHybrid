@@ -1,0 +1,40 @@
+INFO    2020-07-31 18:59:37,639 [main] eBanking  - URL is opened
+INFO    2020-07-31 18:59:37,851 [main] eBanking  - Entered username
+INFO    2020-07-31 18:59:37,954 [main] eBanking  - Entered password
+INFO    2020-07-31 18:59:39,509 [main] eBanking  - Clicked submit
+INFO    2020-07-31 18:59:39,528 [main] eBanking  - Login test passed
+INFO    2020-07-31 19:06:14,809 [main] eBanking  - URL is opened
+INFO    2020-07-31 19:06:14,974 [main] eBanking  - Entered username
+INFO    2020-07-31 19:06:15,075 [main] eBanking  - Entered password
+INFO    2020-07-31 19:06:16,225 [main] eBanking  - Clicked submit
+INFO    2020-07-31 19:06:16,263 [main] eBanking  - Login test passed
+INFO    2020-08-01 15:23:18,802 [main] eBanking  - URL is opened
+INFO    2020-08-01 15:23:19,093 [main] eBanking  - Entered username
+INFO    2020-08-01 15:23:19,200 [main] eBanking  - Entered password
+INFO    2020-08-01 15:23:20,419 [main] eBanking  - Clicked submit
+INFO    2020-08-01 15:23:20,452 [main] eBanking  - Login test passed
+INFO    2020-08-01 15:25:50,840 [main] eBanking  - URL is opened
+INFO    2020-08-01 15:25:51,612 [main] eBanking  - Entered username
+INFO    2020-08-01 15:25:51,709 [main] eBanking  - Entered password
+INFO    2020-08-01 15:25:53,417 [main] eBanking  - Clicked submit
+INFO    2020-08-01 15:25:53,434 [main] eBanking  - Login test passed
+INFO    2020-08-01 15:26:56,606 [main] eBanking  - URL is opened
+INFO    2020-08-01 15:26:57,487 [main] eBanking  - Entered username
+INFO    2020-08-01 15:26:57,585 [main] eBanking  - Entered password
+INFO    2020-08-01 15:26:58,767 [main] eBanking  - Clicked submit
+INFO    2020-08-01 15:26:58,786 [main] eBanking  - Login test passed
+INFO    2020-08-01 17:39:27,202 [main] eBanking  - URL is opened
+INFO    2020-08-01 17:39:27,426 [main] eBanking  - Entered username
+INFO    2020-08-01 17:39:27,553 [main] eBanking  - Entered password
+INFO    2020-08-01 17:39:29,137 [main] eBanking  - Clicked submit
+INFO    2020-08-01 17:39:29,150 [main] eBanking  - Login test passed
+INFO    2020-08-01 18:23:08,427 [main] eBanking  - URL is opened
+INFO    2020-08-01 18:23:08,657 [main] eBanking  - Entered username
+INFO    2020-08-01 18:23:08,813 [main] eBanking  - Entered password
+INFO    2020-08-01 18:23:10,258 [main] eBanking  - Clicked submit
+INFO    2020-08-01 18:23:10,271 [main] eBanking  - Login test passed
+INFO    2020-08-01 18:24:38,643 [main] eBanking  - URL is opened
+INFO    2020-08-01 18:24:39,618 [main] eBanking  - Entered username
+INFO    2020-08-01 18:24:39,772 [main] eBanking  - Entered password
+INFO    2020-08-01 18:24:41,014 [main] eBanking  - Clicked submit
+INFO    2020-08-01 18:24:41,026 [main] eBanking  - Login test passed
